@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.KodiPuertoRico" name="Kodi Puerto Rico" version="1.0.0" provider-name="iCarlitOuz">
+	<extension point="xbmc.addon.repository" name="Kodi Puerto Rico">
+		<info compressed="false">https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Plugins/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Plugins/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/canegron/KodiPuertoRico/blob/master/Plugins/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>El mejor Add-On de Kodi en Puerto Rico.</summary>
+		<description>Aqui podras ver Television en vivo, Peliculas, Series, y mas.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
