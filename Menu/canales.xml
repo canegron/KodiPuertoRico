@@ -3,7 +3,23 @@
 <item>
 <title>Canales Locales</title>
 <link>ignorame</link>
-<externallink>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/locales.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Canales/locales.m3u</externallink>
+<thumbnail>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/logos/Canales-Locales.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Deportes</title>
+<link>ignorame</link>
+<externallink>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Canales/deportes.m3u</externallink>
+<thumbnail>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/logos/Canales-Locales.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Deportes</title>
+<link>ignorame</link>
+<externallink>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Canales/infantiles.m3u</externallink>
 <thumbnail>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/logos/Canales-Locales.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/fanart.jpg</fanart>
 </item>
