@@ -11,6 +11,7 @@ import xbmcaddon
 import xbmcvfs
 import traceback
 import cookielib,base64
+import urlresolver
 
 puerto = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2NhbmVncm9uL0tvZGlQdWVydG9SaWNvL21hc3Rlci9NZW51L21lbnUueG1s'.decode('base64')
 from BeautifulSoup import BeautifulStoneSoup, BeautifulSoup, BeautifulSOAP
