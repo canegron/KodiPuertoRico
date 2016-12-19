@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/logos/Telemundo.png", Telemundo PR
+http://premium.exabytetv.info/HLSST/8469/8469-MOKAR-1011000011101110001000001000110-ExabyteTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/logos/Wapa.png", Wapa
+http://premium.exabytetv.info/HLSST/8476/8476-MOKAR-1011000011101110001000001000110-ExabyteTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/logos/Wapa-2.png", Wapa 2
+http://premium.exabytetv.info/HLSST/8471/8471-MOKAR-1011000011101110001000001000110-ExabyteTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/logos/Univision.png", Univisión PR
+http://premium.exabytetv.info/HLSST/8474/8474-MOKAR-1011000011101110001000001000110-ExabyteTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/logos/Mega-TV.png", MEGA TV
+http://premium.exabytetv.info/HLSST/13508/13508-MOKAR-1011000011101110001000001000110-ExabyteTV.m3u8
+
+#EXTINF:-1 tvg-logo="", ABC PR
+http://premium.exabytetv.info/HLSST/8574/8574-MOKAR-1011000011101110001000001000110-ExabyteTV.m3u8
+
+#EXTINF:-1 tvg-logo="", NBC PR
+http://premium.exabytetv.info/HLSST/13377/13377-MOKAR-1011000011101110001000001000110-ExabyteTV.m3u8
+
+#EXTINF:-1 tvg-logo="", Teleisla PR
+http://premium.exabytetv.info/HLSST/13378/13378-MOKAR-1011000011101110001000001000110-ExabyteTV.m3u8
