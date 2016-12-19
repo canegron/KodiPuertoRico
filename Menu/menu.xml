@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>Kodi Puerto Rico v1.0.0 por iCarlitOuz</title>
+<title>Kodi Puerto Rico v1.0.0 por @iCarlitOuz</title>
 <link>ignorame</link>
 <externallink>ignorame</externallink>
 <thumbnail></thumbnail>
-<fanart>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/fanart.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
 <title>Television en Vivo</title>
 <link>ignorame</link>
 <externallink>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/KPR.m3u</externallink>
-<thumbnail>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/logos/Canales-Locales.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/fanart.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
 <title>Peliculas HD</title>
-<link>ignorame</link>
-<externallink>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Menu/peliculas.xml</externallink>
+<link>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Menu/peliculas.xml</link>
+<externallink>ignorame</externallink>
 <thumbnail></thumbnail>
-<fanart>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/fanart.jpg</fanart>
+<fanart></fanart>
 </item>
