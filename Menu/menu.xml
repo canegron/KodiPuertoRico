@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>Kodi Puerto Rico v1.0.0 por iCarlitOuz</title>
+<title>Kodi Puerto Rico v1.0.0 por @iCarlitOuz</title>
 <link>ignorame</link>
 <externallink>ignorame</externallink>
 <thumbnail></thumbnail>
@@ -12,7 +12,14 @@
 <title>Television en Vivo</title>
 <link>ignorame</link>
 <externallink>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/KPR.m3u</externallink>
-<thumbnail>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/logos/Canales-Locales.png</thumbnail>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Peliculas HD</title>
+<folder>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Menu/peliculas.xml</folder>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
