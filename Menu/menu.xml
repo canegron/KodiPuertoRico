@@ -18,8 +18,8 @@
 
 <item>
 <title>Peliculas HD</title>
-<folder>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Menu/peliculas.xml</folder>
+<link>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Menu/peliculas.xml</link>
+<externallink>ignorame</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
