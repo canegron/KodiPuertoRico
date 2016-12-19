@@ -2,8 +2,8 @@
 
 <item>
 <title>Telemundo</title>
-<link>ignorame</link>
-<externallink>http://premium.exabytetv.info/HLSST/8469/8469-MOKAR-1011000011101110001000001000110-ExabyteTV.m3u8</externallink>
+<link>http://premium.exabytetv.info/HLSST/8469/8469-MOKAR-1011000011101110001000001000110-ExabyteTV.m3u8</link>
+<externallink>ignorame</externallink>
 <thumbnail>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/logos/Telemundo.png</thumbnail>
 <fanart></fanart>
 </item>
