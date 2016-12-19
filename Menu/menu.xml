@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR red]Kodi Puerto Rico v1.0.0 por iCarlitOuz[/COLOR]</title>
+<title>[B][COLOR red]Kodi Puerto Rico v1.0.0 por iCarlitOuz[/COLOR][/B]</title>
 <link>ignorame</link>
 <externallink>ignorame</externallink>
-<thumbnail></thumbnail>
+<thumbnail>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/logos/iCarlitOuz.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/fanart.jpg</fanart>
 </item>
 
@@ -12,7 +12,7 @@
 <title>Television en Vivo</title>
 <link>ignorame</link>
 <externallink>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Menu/canales.xml</externallink>
-<thumbnail></thumbnail>
+<thumbnail>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/logos/livetv.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/fanart.jpg</fanart>
 </item>
 
@@ -20,7 +20,7 @@
 <title>Peliculas HD</title>
 <link>ignorame</link>
 <externallink>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Menu/peliculas.xml</externallink>
-<thumbnail></thumbnail>
+<thumbnail>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/logos/Popcorn.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/fanart.jpg</fanart>
 </item>
 
@@ -28,6 +28,6 @@
 <title>[B][COLOR yellow]Si te gusto el Add-On, puedes donar via Paypal a: canegron92@yahoo.com[/COLOR][/B]</title>
 <link>ignorame</link>
 <externallink>ignorame</externallink>
-<thumbnail></thumbnail>
+<thumbnail>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/logos/iCarlitOuz.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/fanart.jpg</fanart>
 </item>
