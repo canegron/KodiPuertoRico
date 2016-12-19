@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>Canales Locales</title>
+<link>ignorame</link>
+<externallink>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/locales.m3u</externallink>
+<thumbnail>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/logos/Canales-Locales.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/fanart.jpg</fanart>
+</item>
