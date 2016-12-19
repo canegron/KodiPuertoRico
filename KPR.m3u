@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Kodi Puerto Rico
-http://www.kodipuertorico.noexiste
+#EXTINF:-1, Kodi Puerto Rico v1.0.0 by iCarlitOuz
+http://mecago.enti
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/logos/Telemundo.png", Telemundo PR
 http://premium.exabytetv.info/HLSST/8469/8469-MOKAR-1011000011101110001000001000110-ExabyteTV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/logos/Wapa.png", Wapa
@@ -17,3 +17,5 @@ http://premium.exabytetv.info/HLSST/8574/8574-MOKAR-1011000011101110001000001000
 http://premium.exabytetv.info/HLSST/13377/13377-MOKAR-1011000011101110001000001000110-ExabyteTV.m3u8
 #EXTINF:-1 tvg-logo="", Teleisla PR
 http://premium.exabytetv.info/HLSST/13378/13378-MOKAR-1011000011101110001000001000110-ExabyteTV.m3u8
+#EXTINF:-1, Mas canales pronto!
+http://mecago.enti
