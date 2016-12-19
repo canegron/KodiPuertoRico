@@ -27,8 +27,23 @@ http://premium.exabytetv.info/HLSST/13377/13377-MOKAR-10110000111011100010000010
 #EXTINF:-1 tvg-logo="", Teleisla PR
 http://premium.exabytetv.info/HLSST/13378/13378-MOKAR-1011000011101110001000001000110-ExabyteTV.m3u8
 
+#EXTINF:-1 tvg-logo="", NBA TV
+http://premium.exabytetv.info/HLSST/2347/2347-MOKAR-1011000011101110001000001000110-ExabyteTV.m3u8
+
 #EXTINF:-1 tvg-logo="", Cartoon Network
 http://premium.exabytetv.info/HLSST/421/421-MOKAR-1011000011101110001000001000110-ExabyteTV.m3u8
+
+#EXTINF:-1 tvg-logo="", Nickelodeon
+http://premium.exabytetv.info/HLSST/1423/1423-MOKAR-1011000011101110001000001000110-ExabyteTV.m3u8
+
+#EXTINF:-1 tvg-logo="", Discovery Kids
+http://premium.exabytetv.info/HLSST/309/309-MOKAR-1011000011101110001000001000110-ExabyteTV.m3u8
+
+#EXTINF:-1 tvg-logo="", Disney Channel
+http://premium.exabytetv.info/HLSST/256/256-MOKAR-1011000011101110001000001000110-ExabyteTV.m3u8
+
+#EXTINF:-1 tvg-logo="", Disney XD
+http://premium.exabytetv.info/HLSST/499/499-MOKAR-1011000011101110001000001000110-ExabyteTV.m3u8
 
 #EXTINF:-1, Mas canales pronto!
 http://mecago.enti
