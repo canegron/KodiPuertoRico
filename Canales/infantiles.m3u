@@ -12,3 +12,6 @@ http://premium.exabytetv.info/HLSST/256/256-HWXTK-101100010101000001111101111011
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/canegron/KodiPuertoRico/master/Images/logos/Disney-XD.png", Disney XD
 http://premium.exabytetv.info/HLSST/499/499-HWXTK-1011000101010000011111011110111-ExabyteTV.m3u8
+
+#EXTINF:-1, Pokemon
+http://www.pokemonepisodes.net/img/player_v3.swf?domain=4&key=GxEaGVRIRhEdVEECGwICCVxPGQABXCUBBQAdBh1BICdSWF0EHV1MAB1TABECBxcAdllVd0Y6IlgkJCEqCgUpGEUQVl5YVVNIVltCR1o=
